@@ -14,8 +14,8 @@ Interactive Website: Allows users to explore and select songs directly through t
 
 First, clone this repository to your local machine:
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/SamynRhune/Music-recommender-system.git
+cd Music-recommender-system
 ```
 
 ### Step 2: Build the Docker Image
